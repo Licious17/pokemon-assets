@@ -7,6 +7,7 @@
     "bodyslam": ["3T"],
     "bounce": ["7T", "6T", "5T", "4T"],
     "bugbite": ["7T", "7L1", "6T", "6L1", "5T", "5L1", "4T", "4L1"],
+    "bugbuzz": ["8M"],
     "captivate": ["4M"],
     "confide": ["7M", "6M"],
     "constrict": ["7L1", "7V", "6L1", "5L1", "4L1", "3L1"],

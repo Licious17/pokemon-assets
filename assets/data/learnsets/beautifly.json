@@ -48,6 +48,7 @@
     "hyperbeam": ["7M", "6M", "5M", "4M", "3M"],
     "infestation": ["7M", "6M"],
     "laserfocus": ["7T"],
+    "leechlife": ["8L25"],
     "megadrain": ["7L22", "6L22", "5L24", "4L24", "3L24"],
     "mimic": ["3T"],
     "morningsun": ["7L17", "6L17", "5L20", "4L20", "3L20"],

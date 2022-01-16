@@ -6,7 +6,7 @@
     "aquatail": ["7T", "6T", "5T", "4T"],
     "attract": ["7M", "7V", "6M", "5M", "4M", "3M"],
     "batonpass": ["7L46", "6L46", "5L46", "4L46"],
-    "blizzard": ["7M", "6M", "5M", "4M", "3M"],
+    "blizzard": ["8M", "7M", "6M", "5M", "4M", "3M"],
     "bodyslam": ["3T"],
     "brickbreak": ["7M", "6M", "5M", "4M", "3M"],
     "brutalswing": ["7M"],
@@ -38,6 +38,7 @@
     "furyswipes": ["7L13", "7V", "6L13", "5L13", "4L13", "3L12"],
     "gigaimpact": ["7M", "6M", "5M", "4M"],
     "grassknot": ["7M", "6M", "5M", "4M"],
+    "growl": ["8L1"],
     "headbutt": ["7V", "4T"],
     "helpinghand": [
       "7T",

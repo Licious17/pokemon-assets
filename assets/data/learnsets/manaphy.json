@@ -63,6 +63,7 @@
     "toxic": ["7M", "6M", "5M", "4M"],
     "uproar": ["7T", "6T", "5T", "4T"],
     "uturn": ["7M", "6M", "5M", "4M"],
+    "watergun": ["8L1"],
     "waterfall": ["7M", "6M", "5M", "4M"],
     "waterpulse": [
       "7T",

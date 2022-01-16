@@ -80,6 +80,7 @@
     "twister": ["4T"],
     "uproar": ["7T", "7E", "6T", "6E", "5T", "5E", "4E"],
     "uturn": ["8V", "7M", "6M", "5M", "4M"],
+    "wingattack": ["8L18"],
     "whirlwind": ["7E", "7V", "6E", "5E", "4E"],
     "workup": ["7M", "5M"]
   },

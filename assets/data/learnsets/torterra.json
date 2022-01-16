@@ -40,6 +40,7 @@
     "hyperbeam": ["7M", "6M", "5M", "4M"],
     "ironhead": ["7T", "6T", "5T", "4T"],
     "irontail": ["7T", "6T", "5T", "4M"],
+    "leafage": ["8L6"],
     "leafstorm": ["7L57", "6L57", "5L57", "4L57"],
     "leechseed": ["7L33", "6L33", "5L33", "4L33"],
     "lightscreen": ["7M", "6M", "5M", "4M"],

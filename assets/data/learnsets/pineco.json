@@ -2,9 +2,11 @@
   "pokemon": "pineco",
   "learnset": {
     "attract": ["7M", "7V", "6M", "5M", "4M", "3M"],
+    "autotomize": ["8L20"],
     "bide": ["7L20", "7V", "6L20", "5L20", "4L17", "3L29"],
     "bodyslam": ["3T"],
     "bugbite": ["7T", "7L9", "6T", "6L9", "5T", "5L9", "4T", "4L9"],
+    "bugbuzz": ["8M"],
     "bulldoze": ["7M", "6M", "5M"],
     "captivate": ["4M"],
     "confide": ["7M", "6M"],

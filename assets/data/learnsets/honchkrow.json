@@ -19,6 +19,7 @@
     "foulplay": ["7T", "7L45", "6T", "6L45", "5T", "5L45"],
     "frustration": ["7M", "6M", "5M", "4M"],
     "gigaimpact": ["7M", "6M", "5M", "4M"],
+    "gust": ["8L1"],
     "haze": ["7L1", "6L1", "5L1", "4L1"],
     "heatwave": ["7T", "7S0", "6T", "5T", "4T"],
     "hiddenpower": ["7M", "6M", "5M", "4M"],

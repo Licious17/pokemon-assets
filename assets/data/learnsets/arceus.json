@@ -56,6 +56,7 @@
     "gravity": ["7T", "7L10", "6T", "6L10", "5T", "5L10", "4T", "4L10"],
     "hail": ["7M", "6M", "5M", "4M"],
     "headbutt": ["4T"],
+    "healingwish": ["8L50"],
     "heatwave": ["7T", "6T", "5T", "4T"],
     "hiddenpower": ["7M", "6M", "5M", "4M"],
     "honeclaws": ["6M", "5M"],

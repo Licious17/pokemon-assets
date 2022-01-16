@@ -189,6 +189,7 @@
     "superpower": ["7L37", "6T", "6L37", "5L49", "4T", "4L49", "4S7", "3S0"],
     "swagger": ["7M", "6M", "5M", "4M", "3T"],
     "swift": ["7L37", "6L37", "5L49", "4T", "4L49", "4S5", "3T", "3L30", "3S2"],
+    "switcheroo": ["8L37"],
     "taunt": [
       "7M",
       "7L19",
@@ -211,6 +212,7 @@
     "thunderwave": ["7M", "6M", "5M", "4M", "3T"],
     "torment": ["7M", "6M", "5M", "4M", "3M"],
     "toxic": ["7M", "6M", "5M", "4M", "3M"],
+    "toxicspikes": ["8L25"],
     "trick": ["7T", "6T", "5T", "4T"],
     "trickroom": ["7M", "6M", "5M", "4M"],
     "waterpulse": ["7T", "6T", "4M", "3M"],

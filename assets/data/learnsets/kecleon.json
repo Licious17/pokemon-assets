@@ -18,6 +18,7 @@
     "counter": ["3T"],
     "cut": ["6M", "5M", "4M", "3M"],
     "defensecurl": ["3T"],
+    "detect": ["8L30"],
     "dig": ["6M", "5M", "4M", "3M"],
     "disable": ["7E", "6E", "5E", "4E", "3E"],
     "dizzypunch": ["7E", "6E", "5E", "4E"],

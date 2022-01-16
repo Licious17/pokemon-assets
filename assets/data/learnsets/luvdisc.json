@@ -16,6 +16,7 @@
       "3M",
       "3L28"
     ],
+    "babydolleyes": ["8L37"],
     "blizzard": ["7M", "6M", "5M", "4M", "3M"],
     "bounce": ["7T", "6T", "5T", "4T"],
     "brine": ["7E", "6E", "5E", "4M"],
@@ -75,6 +76,7 @@
     "swift": ["4T", "3T"],
     "tackle": ["7L1", "6L1", "5L1", "4L1", "3L1"],
     "takedown": ["7L34", "6L14", "5L14", "4L14", "3L24"],
+    "tearfullook": ["8L13"],
     "toxic": ["7M", "6M", "5M", "4M", "3M"],
     "waterfall": ["7M", "6M", "5M", "4M", "3M"],
     "watergun": ["7L4", "6L4", "5L7", "4L7", "3L12"],

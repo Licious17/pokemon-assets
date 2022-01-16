@@ -2,6 +2,7 @@
   "pokemon": "cacturne",
   "learnset": {
     "absorb": ["7L1", "6L1", "5L1", "4L1", "3L1"],
+    "assurance": ["8L19"],
     "attract": ["7M", "6M", "5M", "4M", "3M"],
     "block": ["7T", "6T", "5T"],
     "bodyslam": ["3T"],
